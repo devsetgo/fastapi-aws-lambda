@@ -1,0 +1,18 @@
+aiofiles==0.5.0
+email-validator==1.1.1
+fastapi [all]==0.58.0
+graphene==2.1.8
+gunicorn==20.0.4
+itsdangerous==1.1.0
+jinja2==2.11.2
+loguru==0.5.1
+orjson==3.1.1
+passlib [bcrypt]==1.7.2
+psutil==5.7.0
+py-cpuinfo==6.0.0
+python-multipart==0.0.5
+pyyaml==5.3.1
+unsync==1.2.1
+uvicorn==0.11.5
+xmltodict==0.12.0
+starlette-exporter==0.4.1
